@@ -1,5 +1,5 @@
-# cs-data-structure
-Recollection of data structure implementation codes
+# C# Data Structures
+Recollection of data structure implementation codes.
 
 Original authors from SoloLearn community:
 
