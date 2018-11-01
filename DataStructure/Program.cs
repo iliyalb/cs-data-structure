@@ -105,7 +105,7 @@ namespace DataStructure
             };
             matrice.Print(matrice.Transpose(e));
 
-            Console.WriteLine();
+            Console.ReadKey();
         }
     }
 }
