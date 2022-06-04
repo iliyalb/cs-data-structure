@@ -10,6 +10,7 @@ namespace DataStructure
     {
         static void Main(string[] args)
         {
+            Console.Title = "Data Structures";
             Console.WriteLine("Linked List:");
             LinkedList L = new LinkedList();
             L.AddAtFront(new LinkedList.Node(1));
